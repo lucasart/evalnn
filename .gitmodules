@@ -1,0 +1,3 @@
+[submodule "nn"]
+	path = nn
+	url = https://github.com/lucasart/nn.git
